@@ -1,6 +1,17 @@
+# Github Finder
+
+## About
+App to search for Github users and view the highlights of their profiles in a user-friendly way.
+
+## Deployed
+View the application at: https://githubfinder8389.netlify.app/
+
+## Tech Stack
+ReactJS, React Hooks, CSS, React Router, Context API, Github API
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Available Scripts
 
