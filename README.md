@@ -7,7 +7,7 @@ App to search for Github users and view the highlights of their profiles in a us
 View the application at: https://githubfinder8389.netlify.app/
 
 ## Tech Stack
-ReactJS, React Hooks, CSS, React Router, Context API, Github API
+ReactJS, React Hooks, CSS, React Router, Context API, Github API, Netlify
 
 # Getting Started with Create React App
 
